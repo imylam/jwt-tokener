@@ -1,8 +1,8 @@
 github.com/creack/pty v1.1.9/go.mod h1:oKZEueFk5CKHvIhNR5MUki03XCEU+Q6VDXinZuGJ33E=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
-github.com/imylam/crypto-utils v0.0.0-20231006075914-5a2484358e12 h1:GXWQCKereyQWmjR01WTFwtnKwBVFdGAdX0S2ADzPK0Y=
-github.com/imylam/crypto-utils v0.0.0-20231006075914-5a2484358e12/go.mod h1:83zN3iSVwkuJt2PAmWtzxlsUxsxha8QN7VmIQUBK2ZY=
+github.com/imylam/crypto-utils v0.0.0-20250809113539-3d05aee9f4f3 h1:REYMHzzoSscxq/tOXubkvUDsGSl9QBND1nfePsqH8vo=
+github.com/imylam/crypto-utils v0.0.0-20250809113539-3d05aee9f4f3/go.mod h1:MgjJc1glbDHhTB9JG9UdF6o/OnnaW2iFuNvSiXXhq6k=
 github.com/imylam/text-coder v0.0.0-20231006071032-43f1d3a209bb h1:+mozLexPiURNUiKFXv0CEs0VEdBYmOCX1XDHWp1WZoM=
 github.com/imylam/text-coder v0.0.0-20231006071032-43f1d3a209bb/go.mod h1:nDXZL2yipIrLvbK5r21bh/r0zWnPy/vK18+PkaytEuc=
 github.com/kr/pretty v0.2.1/go.mod h1:ipq/a2n7PKx3OHsz4KJII5eveXtPO4qwEXGdVfWzfnI=

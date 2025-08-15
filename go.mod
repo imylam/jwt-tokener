@@ -3,7 +3,7 @@ module github.com/imylam/jwt-tokener
 go 1.18
 
 require (
-	github.com/imylam/crypto-utils v0.0.0-20231006075914-5a2484358e12
+	github.com/imylam/crypto-utils v0.0.0-20250809113539-3d05aee9f4f3
 	github.com/imylam/text-coder v0.0.0-20231006071032-43f1d3a209bb
 	github.com/stretchr/testify v1.8.4
 )
